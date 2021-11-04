@@ -132,7 +132,7 @@ layout: homepage
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201504005)] 
 
-## 主要项目经历
+## Research Fund
 
 - 参与“基于感官体验及跨感官交互的消费者决策机理研究”
   <br>
