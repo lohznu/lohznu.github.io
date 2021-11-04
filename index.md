@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;"><b>李欧</b>，1993年1月生，杭州师范大学阿里巴巴商学院教师。2021年9月毕业于浙江大学管理学院神经管理学实验室，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/><font style="line-height:2;">对<b>消费+心理</b>与<b>决策+心理</b>的研究内容特别感兴趣，典型的问题包括“颜色如何影响消费？”“身体姿势如何调节饮食？”“语言与决策思维有什么关系？”“疫情塑造了什么消费新趋势？”等。</font> <br/><br/> <font style="line-height:2;">在工作之余还从事管理学与心理学科普写作，曾在《中国社会科学报》《大众心理学》和网络媒体发表科普文章八十余篇，累计超20万字，其中三十余篇文章的阅读量达10万+；目前正在写作一本有关“买买买的心理学”作品，我将在书中讨论一些有趣的互联网下新消费现象。</font> <br/><br/> <font style="line-height:2;">目前为<i>Psychology & Marketing, Current Psychology, Frontiers in Psychology</i>等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、美国消费者福祉研究会(AACI)、杭州市青年科技工作者协会等会员。</font> <br/><br/> <font style="line-height:2;"><b>十分欢迎对消费者行为、经济决策与心理学交叉学科感兴趣的同学邮件与我讨论你们有趣的研究想法~</b></font>
+<font style="line-height:2;"><b>李欧</b>，1993年1月生，杭州师范大学阿里巴巴商学院教师。2021年9月毕业于浙江大学管理学院神经管理学实验室，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/><font style="line-height:2;">对<b><font color="#e74d3c">消费+心理</font></b><b><font color="#e74d3c">决策+心理</font></b>的研究内容特别感兴趣，典型的问题包括“颜色如何影响消费？”“身体姿势如何调节饮食？”“语言与决策思维有什么关系？”“疫情塑造了什么消费新趋势？”等。</font> <br/><br/> <font style="line-height:2;">在工作之余还从事管理学与心理学科普写作，曾在《中国社会科学报》《大众心理学》和网络媒体发表科普文章八十余篇，累计超20万字，其中三十余篇文章的阅读量达10万+；目前正在写作一本有关“买买买的心理学”作品，我将在书中讨论一些有趣的互联网下新消费现象。</font> <br/><br/> <font style="line-height:2;">目前为<i>Psychology & Marketing, Current Psychology, Frontiers in Psychology</i>等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、美国消费者福祉研究会(AACI)、杭州市青年科技工作者协会等会员。</font> <br/><br/> <font style="line-height:2;"><b>十分欢迎对消费者行为、经济决策与心理学交叉学科感兴趣的同学邮件与我讨论你们有趣的研究想法~</b></font>
 
 [[阿里巴巴商学院](http://abs.hznu.edu.cn/portal/)][[神经管理学实验室](http://neuromanagement.zju.edu.cn/views/index.html)]
 
