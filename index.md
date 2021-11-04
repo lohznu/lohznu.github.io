@@ -23,18 +23,25 @@ layout: homepage
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
-
-- **An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic**
+- **Li, O.**, & Zhao, C. (2021). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during     the COVID-19 pandemic.
   <br>
-  **Ou Li**, Da Qian
+  **Journal of Consumer Affairs**, Accepted.
   <br>
-  **2022**, Journal of Consumer Affairs, 23(3), 232-323.
+  [[WEB](https://onlinelibrary.wiley.com/doi/full/10.1111/joca.12407)] 
 
 - **Li, O.**, & Zhao, C. (2021). How the COVID-19 pandemic influences judgements of risk and benefit: The role of affect heuristics. 
   <br>
   **Journal of Risk Research**, 24(3-4), 466-476.
   <br>
-  [[WEB](https://www.tandfonline.com/doi/abs/10.1080/13669877.2021.1900338)] 
+  [[WEB](https://www.tandfonline.com/doi/abs/10.1080/13669877.2021.1900338)]
+  
+- 于艺凝, **李欧（共同第一作者）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
+  <br>
+  **应用心理学**, 27(1), 84-89. **CSSCI来源期刊.**
+  <br>
+  [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
+ 
+
   
 
 
