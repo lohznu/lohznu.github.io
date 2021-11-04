@@ -81,58 +81,56 @@ layout: homepage
   <br>
   **应用心理学**, 23(1), 92-96. **CSSCI来源期刊.**
   <br>
-  [[WEB]https://d.wanfangdata.com.cn/periodical/yyxlx201701010)] 
+  [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201701010)] 
 
 - 徐富明*, **李欧**, 李彬, 刘程浩, 张慧. (2016). 概率水平与模糊性对短视损失规避的影响. 
   <br>
   **心理科学**, 39(6), 1366-1372. **CSSCI来源期刊.**
   <br>
-  [[WEB]http://www.psysci.org/CN/Y2016/V39/I6/1366] 
+  [[WEB](http://www.psysci.org/CN/Y2016/V39/I6/1366)] 
 
 - **李欧**, 徐富明*, 邓颖, 刘程浩, 史燕伟. (2016). 最后通牒博弈中个体差异和种族文化差异. 
   <br>
   **心理科学**, 39(3), 693-699. **CSSCI来源期刊.**
   <br>
-  [[WEB]http://www.psysci.org/CN/Y2016/V39/I3/693] 
+  [[WEB](http://www.psysci.org/CN/Y2016/V39/I3/693)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 史燕伟. (2016). 行为经济学中的不平等规避. 
   <br>
   **心理科学进展**, 24(10), 1613-1622. **CSSCI来源期刊.**
   <br>
-  [[WEB]http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml] 
+  [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml)] 
 
 
-- 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟 (2016). 判断与决策中的投射偏差. 
+- 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟. (2016). 判断与决策中的投射偏差. 
   <br>
   **心理科学进展**, 24(3), 422-430. **CSSCI来源期刊.**
   <br>
-  [[WEB]http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2016.00422] 
+  [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2016.00422)] 
+
+- 徐富明*, 蒋多, 张慧, **李欧**, 孔诗晓, 史燕伟. (2016). 心理距离对基线比例忽略的影响. 
+  <br>
+  **心理学报**, 48(10), 1292-1301. **CSSCI来源期刊.**
+  <br>
+  [[WEB](http://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2016.01292)] 
+
+- 徐富明*, **李欧**, 邓颖, 刘程浩, 于会会. (2016). 概率组合与警告类型对合取谬误的影响. 
+  <br>
+  **心理研究**, 9(1), 60-65. **CSSCI来源期刊扩展版.**
+  <br>
+  [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201601010)] 
   
-  
+- 徐富明*, **李欧**, 邓颖, 李彬. (2016). 投资决策中的短视损失规避. 
+  <br>
+  **心理研究**, 9(3), 3-9. **CSSCI来源期刊扩展版.**
+  <br>
+  [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201603001)] 
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- 徐富明*, **李欧**, 邓颖, 刘程浩, 吴修良. (2016). 情绪的确定性维度对风险偏好的影响. 
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **应用心理学**, 21(4), 325-333. **CSSCI来源期刊**
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201504005)] 
 
 ## Services
 
