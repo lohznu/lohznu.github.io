@@ -47,7 +47,7 @@ layout: homepage
   <br>
   [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric 93, in the top 5%</i></strong>
   
-- Yang, Y. K., **Li, O. (co-author)**, Peng, X. X., & Wang, L* (2020). HConsumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
+- Yang, Y. K., **Li, O. (co-author)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
@@ -65,6 +65,17 @@ layout: homepage
   <br>
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21284)]
   
+- Wang, L.* & **LI, O.** (2020). Effect of background colors on hedonic consumption. 
+  <br>
+  **Psych Journal**, 8(4), 522-52.
+  <br>
+  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/pchj.291)]
+ 
+- **Li, O.**, Xu, F.*, & Wang, L.* (2018). Advantageous inequity aversion does not always exist: the role of determining allocations modulates preferences for advantageous inequity. 
+  <br>
+  **Frontiers in Psychology**, 9, 749.
+  <br>
+  [[WEB](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00749/full)]
   
   
 
