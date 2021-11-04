@@ -23,7 +23,8 @@ layout: homepage
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
-- **Li, O.**, & Zhao, C. (2021). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
+- **标注\*为指导老师**
+- **Li, O.**, & Zhao, C. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
   **Journal of Consumer Affairs**, Accepted.
   <br>
@@ -41,7 +42,7 @@ layout: homepage
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
-- Qian, D., & **Li, O. (corresponding author)**. (2021). Risk event involvement amplified risk perception during the COVID-19 outbreak in China. 
+- Qian, D., & **Li, O. (corresponding author)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
   <br>
   **Applied Psychology: Health and Well-being**, 12(4), 983-999.
   <br>
@@ -53,7 +54,7 @@ layout: homepage
   <br>
   [[WEB](https://www.frontiersin.org/articles/588580)]
   
-- Wang, L.*, Yu, Y. N., & **Li, O.** (2020). The typeface curvature effect: The role of typeface curvature in increasing preference towards hedonic products. 
+- Wang, L.\*, Yu, Y. N., & **Li, O.** (2020). The typeface curvature effect: The role of typeface curvature in increasing preference towards hedonic products. 
   <br>
   **Psychology & Marketing**, 37(8), 1118-1137.
   <br>
@@ -71,7 +72,7 @@ layout: homepage
   <br>
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/pchj.291)]
  
-- **Li, O.**, Xu, F., & Wang, L.* (2018). Advantageous inequity aversion does not always exist: the role of determining allocations modulates preferences for advantageous inequity. 
+- **Li, O.**, Xu, F.\*, & Wang, L.* (2018). Advantageous inequity aversion does not always exist: the role of determining allocations modulates preferences for advantageous inequity. 
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
@@ -100,7 +101,6 @@ layout: homepage
   **心理科学进展**, 24(10), 1613-1622. **CSSCI来源期刊.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml)] 
-
 
 - 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟. (2016). 判断与决策中的投射偏差. 
   <br>
@@ -132,7 +132,9 @@ layout: homepage
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201504005)] 
 
-## Services
+## 主要项目经历
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- 基于感官体验及跨感官交互的消费者决策机理研究
+  <br>
+  **国家自然科学基金面上项目**. 参与人. 2019~2023.
+  <br>
