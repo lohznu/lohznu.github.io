@@ -23,7 +23,7 @@ layout: homepage
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
-- **Li, O.**, & Zhao, C. (2021). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during     the COVID-19 pandemic.
+- **Li, O.**, & Zhao, C. (2021). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
   **Journal of Consumer Affairs**, Accepted.
   <br>
@@ -41,7 +41,11 @@ layout: homepage
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
-
+- Qian, D., & **Li, O. (corresponding author)**. (2021). Risk event involvement amplified risk perception during the COVID-19 outbreak in China. 
+  <br>
+  **Applied Psychology: Health and Well-being**, 12(4), 983-999.
+  <br>
+  [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric 93, in the top 5%</i></strong>
   
 
 
