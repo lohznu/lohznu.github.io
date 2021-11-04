@@ -15,16 +15,10 @@ layout: homepage
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
 ## <font face="等线">论文发表</font>
 
 - **标注\*为指导老师**
+
 - **Li, O.**, & Zhao, C. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
   **Journal of Consumer Affairs**, Accepted.
@@ -151,7 +145,7 @@ layout: homepage
 
 - **[Dec. 2020]** **浙江大学竺可桢奖学金**. 
   <br>
-  <font size=2>浙江大学学生最高荣誉，当年人文社会科学院系唯一获奖者.</font>
+  <font size=2>浙江大学学生最高荣誉，当年人文社会科学院系唯一获奖者.</font><br>
   
 - **[Dec. 2019]** 第五届浙江大学学生人文社会科学优秀成果奖. 特等奖.
 
