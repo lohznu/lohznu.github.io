@@ -45,7 +45,7 @@ layout: homepage
   <br>
   **Applied Psychology: Health and Well-being**, 12(4), 983-999.
   <br>
-  [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric 93, in the top 5%</i></strong>
+  [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric score 93, in the top 5%</i></strong>
   
 - Yang, Y. K., **Li, O. (co-author)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
   <br>
@@ -75,7 +75,38 @@ layout: homepage
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
-  [[WEB](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00749/full)] <strong><i style="color:#e74d3c">Altmetric 14, in the top 20%</i></strong>
+  [[WEB](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00749/full)] <strong><i style="color:#e74d3c">Altmetric score 14, in the top 20%</i></strong>
+
+- 徐富明*, **李欧**. (2017). 齐差求辨出决策，避繁就简成判断——评《决策心理：齐当别之道》. 
+  <br>
+  **应用心理学**, 23(1), 92-96. **CSSCI来源期刊.**
+  <br>
+  [[WEB]https://d.wanfangdata.com.cn/periodical/yyxlx201701010)] 
+
+- 徐富明*, **李欧**, 李彬, 刘程浩, 张慧. (2016). 概率水平与模糊性对短视损失规避的影响. 
+  <br>
+  **心理科学**, 39(6), 1366-1372. **CSSCI来源期刊.**
+  <br>
+  [[WEB]http://www.psysci.org/CN/Y2016/V39/I6/1366] 
+
+- **李欧**, 徐富明*, 邓颖, 刘程浩, 史燕伟. (2016). 最后通牒博弈中个体差异和种族文化差异. 
+  <br>
+  **心理科学**, 39(3), 693-699. **CSSCI来源期刊.**
+  <br>
+  [[WEB]http://www.psysci.org/CN/Y2016/V39/I3/693] 
+
+- 徐富明*, **李欧**, 邓颖, 刘程浩, 史燕伟. (2016). 行为经济学中的不平等规避. 
+  <br>
+  **心理科学进展**, 24(10), 1613-1622. **CSSCI来源期刊.**
+  <br>
+  [[WEB]http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml] 
+
+
+- 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟 (2016). 判断与决策中的投射偏差. 
+  <br>
+  **心理科学进展**, 24(3), 422-430. **CSSCI来源期刊.**
+  <br>
+  [[WEB]http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2016.00422] 
   
   
 
