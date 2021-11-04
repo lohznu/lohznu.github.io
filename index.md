@@ -24,6 +24,14 @@ layout: homepage
 
 ## Publications
 
+- **An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic**
+  <br>
+  **Ou Li**, Da Qian
+  <br>
+  **2022**, Journal of Consumer Affairs, 23(3), 232-323.
+
+- **Li, O.**, & Zhao, C. (2021). How the COVID-19 pandemic influences judgements of risk and benefit: The role of affect heuristics. 
+  **Journal of Risk Research**, 24(3-4), 466-476.
 
 
 
