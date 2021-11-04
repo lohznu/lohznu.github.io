@@ -146,7 +146,6 @@ layout: homepage
 - **[Dec. 2020]** **浙江大学竺可桢奖学金**. 
   <br>
   <font size=2>浙江大学学生最高荣誉，当年人文社会科学院系唯一获奖者.</font><br>
-  
 - **[Dec. 2019]** 第五届浙江大学学生人文社会科学优秀成果奖. 特等奖.
 
 - **[Oct. 2016, Oct. 2018, Oct. 2019]** 国家奖学金. 三次.
@@ -157,8 +156,10 @@ layout: homepage
 
 - **[Aug. 2019]** 第二届浙江省大学生乡村振兴创意大赛. 金奖.
 
-## <font face="等线">部分科普文</font>
+## <font face="等线">科普文节选</font>
 
+- 什么！可乐包装上的字体都在算计我的钱包？ 
+  [[WEB](https://mp.weixin.qq.com/s/UbeE_351VImzL8NIGyyBXA)]
   
   
   
