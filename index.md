@@ -47,8 +47,26 @@ layout: homepage
   <br>
   [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric 93, in the top 5%</i></strong>
   
+- Yang, Y. K., **Li, O. (co-author)**, Peng, X. X., & Wang, L* (2020). HConsumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
+  <br>
+  **Frontiers in Psychology**, 9, 749.
+  <br>
+  [[WEB](https://www.frontiersin.org/articles/588580)]
+  
+- Wang, L.*, Yu, Y. N., & **Li, O.** (2020). The typeface curvature effect: The role of typeface curvature in increasing preference towards hedonic products. 
+  <br>
+  **Psychology & Marketing**, 37(8), 1118-1137.
+  <br>
+  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21287)]
 
-
+- Wang, L.* Yu, Y. N. & **LI, O.** (2020). The cross-modal interaction between sound frequency and color saturation on consumer’s product size perception, preference and purchase. 
+  <br>
+  **Psychology & Marketing**, 37(7), 876-899.
+  <br>
+  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21284)]
+  
+  
+  
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
