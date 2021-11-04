@@ -10,8 +10,8 @@ layout: homepage
 
 ## <font face="等线">研究兴趣</font>
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Consumer Psychology and Behaviors:** sensory marketing, food choice, consumption under Covid-19
+- **Decision-making and Economic Psychology:** social preferences, inequity averson, decision bias
 
 ## <font face="等线">论文发表</font>
 
