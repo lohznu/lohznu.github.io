@@ -158,26 +158,24 @@ layout: homepage
 
 ## <font face="等线">科普文节选</font>
 
-- 什么！可乐包装上的字体都在算计我的钱包？ 
+- 什么！可乐包装上的字体都在算计我的钱包？ **阅读量10万+**
   [[WEB](https://mp.weixin.qq.com/s/UbeE_351VImzL8NIGyyBXA)]
  
-- 只要姿势到位，双十一怎么花钱都觉得对
+- 只要姿势到位，双十一怎么花钱都觉得对. **阅读量10万+**
   [[WEB](https://mp.weixin.qq.com/s/UebtrrniVmYHdB6VfQn7Jw)]
   
-- 穷不只会影响钱包，还会伤害脑子 
+- 穷不只会影响钱包，还会伤害脑子. **阅读量10万+** 
   [[WEB](https://mp.weixin.qq.com/s/8EV43oL4-eZg9Ej1zCPBAA)]
   
-- 想不起来自己的钱是怎么没的？是移动支付让你失忆了 
+- 想不起来自己的钱是怎么没的？是移动支付让你失忆了. **阅读量10万+**
   [[WEB](https://mp.weixin.qq.com/s/Se1T7asDLLjdxSsxFC_Yww)]
   
-- 长成什么样会被夸赞“颜值高”呢？ 
+- 长成什么样会被夸赞“颜值高”呢？ **阅读量10万+** 
   [[WEB](https://mp.weixin.qq.com/s/ry5wGY38g_KvW1awTDBtvA)]
  
-- 专业可能影响思维方式：学习经济学专业对公平感的影响. 中国社会科学报.  
-  [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2016&filename=CSHK201601040061&uniplatform=NZKPT&v=1xPR_QXie5d3uzh6Qw_qFvCN3NYpHFFyhPlDO6iaHRaeAq1HouOeTjSwqqcC8vQWomUTjUFnT58%3d)]
+- 专业可能影响思维方式：学习经济学专业对公平感的影响. **中国社会科学报**. [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2016&filename=CSHK201601040061&uniplatform=NZKPT&v=1xPR_QXie5d3uzh6Qw_qFvCN3NYpHFFyhPlDO6iaHRaeAq1HouOeTjSwqqcC8vQWomUTjUFnT58%3d)]
  
-- 游戏设计师勾引玩家的“独门秘术”. 大众心理学.  
-  [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2016&filename=DZXI201603029&uniplatform=NZKPT&v=uWLV_Q0t0iJstKLUMjxezKK3AbE-wQpCFiPVgYboEQq7ba-84ZgyhZzPZ9ICGD3y)]
+- 游戏设计师勾引玩家的“独门秘术”. **大众心理学**. [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2016&filename=DZXI201603029&uniplatform=NZKPT&v=uWLV_Q0t0iJstKLUMjxezKK3AbE-wQpCFiPVgYboEQq7ba-84ZgyhZzPZ9ICGD3y)]
   
   
   
