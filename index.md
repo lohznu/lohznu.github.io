@@ -4,17 +4,13 @@ layout: homepage
 
 ## About Me
 
-## <font face="等线">我是黑体字</font>
-## <font face="黑体">我是黑体字</font>
-## <font face="方正清刻本悦宋简体">我是黑体字</font>
-
 李欧，男，1993年1月生，2021年9月毕业于浙江大学管理学院神经管理学实验室，获管理学博士学位。具有心理学背景（行为决策与经济心理方向）。研究兴趣是消费者心理与行为、个体管理与经济决策等。目前为Psychology & Marketing, Current Psychology, Frontiers in Psychology等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、美国消费者福祉研究会(AACI)、杭州市青年科技工作者协会等会员。
 
 长期从事管理学与心理学科普写作，共发表科普文章八十余篇累积超20万字，其中三十余篇科普文的阅读量达10万+；目前正在写一本关于“买买买的心理学”的科普作品，在书中我将尝试讨论“为什么东西买到手就不香了？”“短视频如何让人上瘾？”“直播带货为什么让人买不停？”这些有趣的话题。
 
 **十分欢迎对消费者行为、经济决策与心理学交叉学科感兴趣的同学邮件与我讨论你们有趣的研究想法。**
 
-## Research Interests
+## <font face="等线">研究兴趣</font>
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
@@ -26,7 +22,8 @@ layout: homepage
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-## Publications
+## <font face="等线">论文发表</font>
+
 - **标注\*为指导老师**
 - **Li, O.**, & Zhao, C. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
@@ -136,7 +133,7 @@ layout: homepage
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201504005)] 
 
-## Research Fund
+## <font face="等线">主要项目经历</font>
 
 - 参与“基于感官体验及跨感官交互的消费者决策机理研究”.
   <br>
@@ -150,7 +147,7 @@ layout: homepage
   <br>
   **浙江大学人文社会科学实验研究重点项目**. 2020~2021.
 
-## Award and Honor
+## <font face="等线">主要荣誉和获奖</font>
 
 - **[Dec. 2020]** **浙江大学竺可桢奖学金**. 
   <br>
@@ -164,6 +161,8 @@ layout: homepage
 - **[Aug. 2020]** 第五届浙江省“互联网+”大学生创新创业大赛. 金奖.
 
 - **[Aug. 2019]** 第二届浙江省大学生乡村振兴创意大赛. 金奖.
+
+## <font face="等线">部分科普文</font>
 
   
   
