@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;">&emsp;&emsp;李欧，男，1993年1月生，2021年9月毕业于浙江大学管理学院神经管理学实验室，获管理学博士学位。具有心理学背景（行为决策与经济心理方向）。研究兴趣是消费者心理与行为、个体管理与经济决策等。目前为Psychology & Marketing, Current Psychology, Frontiers in Psychology等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、美国消费者福祉研究会(AACI)、杭州市青年科技工作者协会等会员。</font> <br/> <font style="line-height:2;">&emsp;&emsp;长期从事管理学与心理学科普写作，共发表科普文章八十余篇累积超20万字，其中三十余篇科普文的阅读量达10万+；目前正在写一本关于“买买买的心理学”的科普作品，在书中我将尝试讨论“为什么东西买到手就不香了？”“短视频如何让人上瘾？”“直播带货为什么让人买不停？”这些有趣的话题。</font>
+<font style="line-height:2;">&emsp;&emsp;李欧，男，1993年1月生，杭州师范大学阿里巴巴商学院教师。2021年9月毕业于浙江大学管理学院神经管理学实验室，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font> <br/> <font style="line-height:2;">&emsp;&emsp;对消费+心理与决策+心理的研究内容特别感兴趣，典型的问题包括“颜色如何影响消费？”“身体姿势如何调节饮食？”“语言与决策思维有什么关系？”“疫情塑造了什么消费新趋势？”等等。</font> <br/> <font style="line-height:2;">&emsp;&emsp;在工作之余还从事管理学与心理学科普写作，曾在《中国社会科学报》《大众心理学》和网络媒体发表科普文章八十余篇，累计超20万字，其中三十余篇科普文的阅读量达10万+；目前正在写作一本有关“买买买的心理学”作品，我将在书中尝试讨论一些有趣的互联网下新消费现象。</font> <br/> <font style="line-height:2;">&emsp;&emsp;目前为Psychology & Marketing, Current Psychology, Frontiers in Psychology等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、美国消费者福祉研究会(AACI)、杭州市青年科技工作者协会等会员。</font> <br/> <font style="line-height:2;">&emsp;&emsp;十分欢迎对消费者行为、经济决策与心理学交叉学科感兴趣的同学邮件与我讨论你们有趣的研究想法。</font>
 
-**十分欢迎对消费者行为、经济决策与心理学交叉学科感兴趣的同学邮件与我讨论你们有趣的研究想法。**
-
-[[神经管理学实验室](http://neuromanagement.zju.edu.cn/views/index.html)]
+[[阿里巴巴商学院](http://abs.hznu.edu.cn/portal/)][[神经管理学实验室](http://neuromanagement.zju.edu.cn/views/index.html)]
 
 ## <font face="等线">研究兴趣</font>
 
