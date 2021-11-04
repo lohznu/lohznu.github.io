@@ -31,7 +31,11 @@ layout: homepage
   **2022**, Journal of Consumer Affairs, 23(3), 232-323.
 
 - **Li, O.**, & Zhao, C. (2021). How the COVID-19 pandemic influences judgements of risk and benefit: The role of affect heuristics. 
+  <br>
   **Journal of Risk Research**, 24(3-4), 466-476.
+  <br>
+  [[WEB](https://www.tandfonline.com/doi/abs/10.1080/13669877.2021.1900338)] 
+  
 
 
 
