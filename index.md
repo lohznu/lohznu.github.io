@@ -71,11 +71,11 @@ layout: homepage
   <br>
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/pchj.291)]
  
-- **Li, O.**, Xu, F.*, & Wang, L.* (2018). Advantageous inequity aversion does not always exist: the role of determining allocations modulates preferences for advantageous inequity. 
+- **Li, O.**, Xu, F., & Wang, L.* (2018). Advantageous inequity aversion does not always exist: the role of determining allocations modulates preferences for advantageous inequity. 
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
-  [[WEB](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00749/full)]
+  [[WEB](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00749/full)] <strong><i style="color:#e74d3c">Altmetric 14, in the top 20%</i></strong>
   
   
 
