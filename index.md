@@ -17,7 +17,7 @@ layout: homepage
 
 - **标注\*为指导老师**
 
-- **Li, O.**, & Zhao, C. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
+- **Li, O.**, & Qian, D. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
   **Journal of Consumer Affairs**, Accepted.
   <br>
@@ -119,7 +119,7 @@ layout: homepage
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201603001)] 
 
-- 徐富明*, **李欧**, 邓颖, 刘程浩, 吴修良. (2016). 情绪的确定性维度对风险偏好的影响. 
+- 徐富明*, **李欧**, 邓颖, 刘程浩, 吴修良. (2015). 情绪的确定性维度对风险偏好的影响. 
   <br>
   **应用心理学**, 21(4), 325-333. **CSSCI来源期刊**
   <br>
@@ -157,15 +157,9 @@ layout: homepage
 
 - 什么！可乐包装上的字体都在算计我的钱包？ **阅读量10万+**
   [[WEB](https://mp.weixin.qq.com/s/UbeE_351VImzL8NIGyyBXA)]
- 
-- 只要姿势到位，双十一怎么花钱都觉得对. **阅读量10万+**
-  [[WEB](https://mp.weixin.qq.com/s/UebtrrniVmYHdB6VfQn7Jw)]
   
 - 穷不只会影响钱包，还会伤害脑子. **阅读量10万+** 
   [[WEB](https://mp.weixin.qq.com/s/8EV43oL4-eZg9Ej1zCPBAA)]
-  
-- 想不起来自己的钱是怎么没的？是移动支付让你失忆了. **阅读量10万+**
-  [[WEB](https://mp.weixin.qq.com/s/Se1T7asDLLjdxSsxFC_Yww)]
   
 - 长成什么样会被夸赞“颜值高”呢？ **阅读量10万+** 
   [[WEB](https://mp.weixin.qq.com/s/ry5wGY38g_KvW1awTDBtvA)]
