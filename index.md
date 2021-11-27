@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn/views/index.html)">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">对<b><font color="#e74d3c">消费+心理</font></b>与<b><font color="#e74d3c">决策+心理</font></b>的研究内容特别感兴趣，典型的研究问题包括“颜色如何影响消费？”“我们日常会犯哪些决策错误？”“语言与决策思维有什么关系？”“新冠疫情塑造了什么公众消费新趋势？”等等。</font> <br/><br/> <font style="line-height:2;">目前为<i>Psychology & Marketing, Current Psychology, Frontiers in Psychology</i>等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、中国心理学会、浙江省绿色科技文化促进会、杭州市青年科技工作者协会等组织会员。</font> <br/>
+<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn/views/index.html)">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">对<b><font color="#e74d3c">消费+心理</font></b>与<b><font color="#e74d3c">决策+心理</font></b>的研究内容特别感兴趣，典型的研究问题包括“颜色如何影响消费？”“我们日常会犯哪些决策错误？”“语言与决策思维有什么关系？”“新冠疫情塑造了什么公众消费新趋势？”等等。</font> <br/><br/> <font style="line-height:2;"><i>Psychology & Marketing, Current Psychology, Frontiers in Psychology</i>等期刊匿名审稿人；国际应用心理学协会(IAAP)、消费者研究协会(ACR)、中国心理学会、浙江省绿色科技文化促进会、杭州市青年科技工作者协会等组织会员。</font> <br/>
 
 ## <font face="等线">研究兴趣</font>
   
@@ -77,31 +77,31 @@ layout: homepage
 
 - 徐富明*, **李欧**, 李彬, 刘程浩, 张慧. (2016). 概率水平与模糊性对短视损失规避的影响. 
   <br>
-  **心理科学**, 39(6), 1366-1372. **CSSCI来源期刊.**
+  **心理科学**, 39(6), 1366-1372. **中文一级，CSSCI来源期刊.**
   <br>
   [[WEB](http://www.psysci.org/CN/Y2016/V39/I6/1366)] 
 
 - **李欧**, 徐富明*, 邓颖, 刘程浩, 史燕伟. (2016). 最后通牒博弈中个体差异和种族文化差异. 
   <br>
-  **心理科学**, 39(3), 693-699. **CSSCI来源期刊.**
+  **心理科学**, 39(3), 693-699. **中文一级，CSSCI来源期刊.**
   <br>
   [[WEB](http://www.psysci.org/CN/Y2016/V39/I3/693)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 史燕伟. (2016). 行为经济学中的不平等规避. 
   <br>
-  **心理科学进展**, 24(10), 1613-1622. **CSSCI来源期刊.**
+  **心理科学进展**, 24(10), 1613-1622. **中文一级，CSSCI来源期刊.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml)] 
 
 - 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟. (2016). 判断与决策中的投射偏差. 
   <br>
-  **心理科学进展**, 24(3), 422-430. **CSSCI来源期刊.**
+  **心理科学进展**, 24(3), 422-430. **中文一级，CSSCI来源期刊.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2016.00422)] 
 
 - 徐富明*, 蒋多, 张慧, **李欧**, 孔诗晓, 史燕伟. (2016). 心理距离对基线比例忽略的影响. 
   <br>
-  **心理学报**, 48(10), 1292-1301. **CSSCI来源期刊.**
+  **心理学报**, 48(10), 1292-1301. **中文权威，CSSCI来源期刊.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2016.01292)] 
 
