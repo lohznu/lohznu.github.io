@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn/views/index.html)">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">对<b><font color="#e74d3c">消费+心理</font></b>与<b><font color="#e74d3c">决策+心理</font></b>的研究内容特别感兴趣，典型的研究问题包括“颜色如何影响消费？”“我们日常会犯哪些决策错误？”“语言与决策思维有什么关系？”“新冠疫情塑造了什么公众消费新趋势？”等等。</font> <br/>
+<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn/views/index.html)">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">对<b><font color="#e74d3c">消费+心理</font></b>与<b><font color="#e74d3c">决策+心理</font></b>的研究内容特别感兴趣，典型的研究问题包括“颜色如何影响消费？”“我们日常会犯哪些决策错误？”“语言与决策思维有什么关系？”“新冠疫情塑造了什么公众消费新趋势？”等等。</font> <br/> <font style="line-height:2;"国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、杭州青年科技工作者协会等组织会员，<i>Psychology & Marketing, Frontiers in Psychology, Current Psychology<i>等期刊匿名审稿人。</font> <br/>
 
 ## <font face="等线">研究兴趣</font>
   
