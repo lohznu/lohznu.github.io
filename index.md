@@ -16,9 +16,21 @@ layout: homepage
 
 - **标注\*为指导老师**
 
+- How consumers respond to virtual advertising?
+  <br>
+  **Working paper**
+  
+ - Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
+  <br>
+  **Working paper**
+  
+- Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
+  <br>
+  **Working paper**
+
 - **Li, O.**, & Qian, D. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
-  **Journal of Consumer Affairs**, Accepted.
+  **Journal of Consumer Affairs**, 56(1), 257-275.
   <br>
   [[WEB](https://onlinelibrary.wiley.com/doi/full/10.1111/joca.12407)] 
 
