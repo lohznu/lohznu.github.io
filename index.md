@@ -27,7 +27,13 @@ layout: homepage
 - Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
   **Working paper**
-
+ 
+ - **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
+  <br>
+  **心理技术与应用**, accepted.
+  <br>
+  [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
+  
 - **Li, O.**, & Qian, D. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
   **Journal of Consumer Affairs**, 56(1), 257-275.
