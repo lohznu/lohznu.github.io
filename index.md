@@ -32,7 +32,7 @@ layout: homepage
   <br>
   **心理技术与应用**, accepted.
 
- - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**, & Qian, D. (2022). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
+ - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**,. (2022). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
   <br>
   **European Journal of Innovation Management**, accepted.
   <br>
