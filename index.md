@@ -16,6 +16,10 @@ layout: homepage
 
 - **标注\*为指导老师**
 
+- How virtual reality improve the effectiveness of prosocial advertising?
+  <br>
+  **Working paper**
+
 - How consumers respond to virtual advertising?
   <br>
   **Working paper**
@@ -26,7 +30,8 @@ layout: homepage
   
 - Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
-  **Working paper**
+  **Psychology & Marketing**, accepted.
+  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
  
  - **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
   <br>
