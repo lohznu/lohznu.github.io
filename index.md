@@ -27,8 +27,8 @@ layout: homepage
  - Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
   <br>
   **Working paper**
-  
-- Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
+
+- Qian, D., Yan, H., Pan, L., & **Li, O. (corresponding author)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
   **Psychology & Marketing**, accepted.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
