@@ -16,6 +16,14 @@ layout: homepage
 
 - **标注\*为指导老师**
 
+- Red, rather than blue can promote fairness in decision-making
+  <br>
+  **Working paper**
+
+- Are you selling the right emoji? The location effect of emoji in advertising design
+  <br>
+  **Working paper**
+
 - How virtual reality improve the effectiveness of prosocial advertising?
   <br>
   **Working paper**
