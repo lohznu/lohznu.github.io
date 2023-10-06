@@ -203,9 +203,6 @@ layout: homepage
 (https://www.2008php.com/2019_Website_appreciate/2019-11-01/201911011021319KGnsasb1zKP.jpg "banner")
   
   
-![banner](https://www.2008php.com/2019_Website_appreciate/2019-11-01/201911011021319KGnsasb1zKP.jpg?1524065354 "banner")  
-  
-  
   
   
   
