@@ -193,6 +193,8 @@ layout: homepage
 - 长成什么样会被夸赞“颜值高”呢？ **阅读量10万+** 
   [[WEB](https://mp.weixin.qq.com/s/ry5wGY38g_KvW1awTDBtvA)]
  
+- 用元宇宙相关技术改善亲环境行为. **中国社会科学报**. [[WEB](https://www.cssn.cn/skqns/skqns_qnzs/202308/t20230823_5680734.shtml)]
+
 - 专业可能影响思维方式：学习经济学专业对公平感的影响. **中国社会科学报**. [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2016&filename=CSHK201601040061&uniplatform=NZKPT&v=1xPR_QXie5d3uzh6Qw_qFvCN3NYpHFFyhPlDO6iaHRaeAq1HouOeTjSwqqcC8vQWomUTjUFnT58%3d)]
  
 - 游戏设计师勾引玩家的“独门秘术”. **大众心理学**. [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2016&filename=DZXI201603029&uniplatform=NZKPT&v=uWLV_Q0t0iJstKLUMjxezKK3AbE-wQpCFiPVgYboEQq7ba-84ZgyhZzPZ9ICGD3y)]
