@@ -201,7 +201,8 @@ layout: homepage
  
 - 游戏设计师勾引玩家的“独门秘术”. **大众心理学**. [[WEB](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2016&filename=DZXI201603029&uniplatform=NZKPT&v=uWLV_Q0t0iJstKLUMjxezKK3AbE-wQpCFiPVgYboEQq7ba-84ZgyhZzPZ9ICGD3y)]
   
-![banner](https://www.2008php.com/2019_Website_appreciate/2019-11-01/201911011021319KGnsasb1zKP.jpg "banner")
+![banner]
+(https://www.2008php.com/2019_Website_appreciate/2019-11-01/201911011021319KGnsasb1zKP.jpg "banner")
   
   
   
