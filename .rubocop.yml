@@ -1,6 +1,8 @@
 AllCops:
   Exclude:
     - _site/**/*
-
+- name: Setup Ruby, JRuby and TruffleRuby
+uses: ruby/setup-ruby@v1.160.0
+            
 Metrics/LineLength:
   Enabled: false
