@@ -14,9 +14,9 @@ layout: homepage
 
 ## <font face="等线">研究成果</font>
 
-- **标注\*为指导老师**
+- **标注\*为导师**
 
-- Coffee aroma and cognitive compas: Coffee-like scent undermines unethical consumption
+- Coffee-like scent and consumption
   <br>
   **Working paper**
 
@@ -24,7 +24,7 @@ layout: homepage
   <br>
   **Working paper**
 
-- Are you selling the right emoji? The location effect of emoji in advertising design
+- Emoji location effect in advertising design
   <br>
   **Working paper**
 
@@ -32,11 +32,11 @@ layout: homepage
   <br>
   **Working paper**
   
- - Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
+ - Virtual reality and prosocial advertising.
   <br>
   **Working paper**
 
-- Qian, D., Yan, H., Pan, L., & **Li, O. (corresponding author)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
+- Qian, D., Yan, H., Pan, L., & **Li, O. (corresponding)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
   **Psychology & Marketing**, accepted.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
@@ -63,19 +63,19 @@ layout: homepage
   <br>
   [[WEB](https://www.tandfonline.com/doi/abs/10.1080/13669877.2021.1900338)]
   
-- 于艺凝, **李欧（共同第一作者）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
+- 于艺凝, **李欧（共同一作）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
   <br>
   **应用心理学**, 27(1), 84-89. **CSSCI来源期刊.**
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
-- Qian, D., & **Li, O. (corresponding author)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
+- Qian, D., & **Li, O. (corresponding)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
   <br>
   **Applied Psychology: Health and Well-being**, 12(4), 983-999.
   <br>
   [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric score 93, high attention, in the top 5%</i></strong>
   
-- Yang, Y. K., **Li, O. (co-first author)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
+- Yang, Y. K., **Li, O. (co-first)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
