@@ -32,13 +32,17 @@ layout: homepage
   <br>
   **Working paper**
   
- - Virtual reality and prosocial advertising.
+ - Virtual reality and charitable giving.
   <br>
   **Working paper**
 
+- **Li, O.**, Pan, Z., Qiu, H., & Qian, D. (2024) . Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
+  <br>
+  **Journal of Advertising Research**, accepted.
+
 - Qian, D., Yan, H., Pan, L., & **Li, O. (corresponding)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
-  **Psychology & Marketing**, accepted.
+  **Psychology & Marketing**, 40(8), 1451-1465.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
  
  - **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
