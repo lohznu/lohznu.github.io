@@ -32,7 +32,7 @@ layout: homepage
   <br>
   **Working paper**
   
- - Virtual reality and charitable giving.
+ - Virtual reality and pro-environmental consumption.
   <br>
   **Working paper**
 
