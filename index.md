@@ -45,7 +45,7 @@ layout: homepage
   **Psychology & Marketing**, 40(8), 1451-1465.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
  
-- **Li, O.**, & Qiu, H. (2024) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
+- **Li, O.**, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
   <br>
   **IEEE VR**, CCF-A类.
 
