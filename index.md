@@ -44,15 +44,15 @@ layout: homepage
   <br>
   **Psychology & Marketing**, 40(8), 1451-1465.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
- 
-- **Li, O.**, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
-  <br>
-  **IEEE VR**, CCF-A类.
 
 - **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
   <br>
   **心理技术与应用**, accepted.
-
+  
+- **Li, O.**, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
+  <br>
+  **IEEE VR**, CCF-A类.
+  
  - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**,. (2022). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
   <br>
   **European Journal of Innovation Management**, accepted.
