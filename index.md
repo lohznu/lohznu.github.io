@@ -45,7 +45,11 @@ layout: homepage
   **Psychology & Marketing**, 40(8), 1451-1465.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
  
- - **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
+- **Li, O.**, & Qiu, H. (2024) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
+  <br>
+  **IEEE VR**, CCF-A类.
+
+- **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
   <br>
   **心理技术与应用**, accepted.
 
