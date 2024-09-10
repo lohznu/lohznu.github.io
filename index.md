@@ -34,7 +34,7 @@ layout: homepage
   <br>
   **Energy**, 132953.
 
-- **Li, O.**, Su, W., & Yan, S. (2024) . Using Virtual Reality to Promote Pro-environmental Consumption.
+- **Li, O.**, Su, W., & Shi, Y. (2024) . Using Virtual Reality to Promote Pro-environmental Consumption.
   <br>
   **IEEE VR**, CCF-A类.
   
