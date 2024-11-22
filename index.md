@@ -28,7 +28,7 @@ layout: homepage
 
 - How consumers respond to virtual advertising?
   <br>
-  **Working paper**
+  **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会优秀论文</i></strong>
 
 - Feeling younger and consumption
   <br>
@@ -40,7 +40,7 @@ layout: homepage
 
 - **Li, O.**, Su, W., & Shi, Y. (2024) . Using Virtual Reality to Promote Pro-environmental Consumption.
   <br>
-  **IEEE VR**, CCF-A类.
+  **IEEE VR**, CCF-A类. <strong><i style="color:#e74d3c">Altmetric score 93, high attention, in the top 5%</i></strong>
   
 - **Li, O.**, Pan, Z., Qiu, H., & Qian, D. (2024) . Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
   <br>
@@ -57,7 +57,7 @@ layout: homepage
   
 - **Li, O.**, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
   <br>
-  **IEEE VR**, CCF-A类.
+  **IEEE VR**, CCF-A类. <strong><i style="color:#e74d3c">MSI 2024 优秀论文</i></strong>
   
  - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**,. (2022). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
   <br>
@@ -67,7 +67,7 @@ layout: homepage
   
 - **Li, O.**, & Qian, D. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
-  **Journal of Consumer Affairs**, 56(1), 257-275.
+  **Journal of Consumer Affairs**, 56(1), 257-275. <strong><i style="color:#e74d3c">Wiley高被引论文</i></strong>
   <br>
   [[WEB](https://onlinelibrary.wiley.com/doi/full/10.1111/joca.12407)] 
 
