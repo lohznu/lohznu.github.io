@@ -22,6 +22,10 @@ layout: homepage
   <br>
   **Working paper**
 
+- External risk event and new product acceptance
+  <br>
+  **Working paper**
+
 - WOM and physician choice in online communities
   <br>
   **Working paper**
