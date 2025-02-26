@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 <font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会、杭州青年科技工作者协会等会员，<i>Psychology & Marketing, Personality and Individual Differences, IEEE VR (CCF-A)</i>等匿名审稿人。</font><br/> 
-<font style="line-height:2;">对“消费+心理”与“决策+心理”的研究内容特别感兴趣，典型的研究问题包括“虚拟现实如何塑造亲社会行为？””“新技术如AI如何改变消费行为？”“新冠疫情塑造了什么公众消费新趋势？”“感官营销与绿色消费”等等。</font><br/>  
+<font style="line-height:2;">对“消费+心理”与“决策+心理”的研究内容感兴趣，典型的研究问题包括“虚拟现实如何塑造亲社会行为？””“新技术如AI如何改变消费行为？”“新冠疫情塑造了什么公众消费新趋势？”“感官营销与绿色消费”等等。</font><br/>  
 
 ## <font face="等线">研究兴趣</font>
   
@@ -18,7 +18,11 @@ layout: homepage
   <br>
   **Working paper**
 
-- Red, rather than blue can promote fairness in decision-making
+- Virtual reality and green consumption
+  <br>
+  **Working paper**
+
+- WOM and physician choice in online communities
   <br>
   **Working paper**
 
@@ -30,9 +34,9 @@ layout: homepage
   <br>
   **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会 优秀论文</i></strong>
 
-- Feeling younger and consumption
+- **Li, O.** & Shi, Y. (2025) . Red, rather than blue can promote fairness in decision-making.
   <br>
-  **Working paper**
+  **Humanities and Social Sciences Communications**, 12, 94.
 
 - Xu, M., Liu, X., & **Li, O. (corresponding)**. (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
