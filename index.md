@@ -26,10 +26,6 @@ layout: homepage
   <br>
   **Working paper**
 
-- WOM and physician choice in online communities
-  <br>
-  **Working paper**
-
 - Emoji location effect in advertising design
   <br>
   **Working paper**
@@ -38,7 +34,7 @@ layout: homepage
   <br>
   **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会 优秀论文</i></strong>
 
-- Han, L., Thongpapanl, N., & **Li, O. (corresponding)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
+- Han, L., Thongpapanl, N., & **Li, O. (通讯)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
   **Digital Health**, 11.
 
@@ -46,11 +42,11 @@ layout: homepage
   <br>
   **Humanities and Social Sciences Communications**, 12, 94.
 
-  - Shi, Y, Sun, B., Li, O., & Li, C. (2025) . Driving online course sales by leveraging teacher information.
+  - Shi, Y, Sun, B., **Li, O.**, & Li, C. (2025) . Driving online course sales by leveraging teacher information.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, 37(4), 931-947.
 
-- Xu, M., Liu, X., & **Li, O. (corresponding)**. (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
+- Xu, M., Liu, X., & **Li, O. (通讯)**. (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
   **Energy**, 132953.
 
@@ -62,7 +58,12 @@ layout: homepage
   <br>
   **Journal of Advertising Research**, 64(3), 1-16.
 
-- Qian, D., Yan, H., Pan, L., & **Li, O. (corresponding)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
+ - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**,. (2024). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
+  <br>
+  **European Journal of Innovation Management**, 27(3), 1024-1041.
+  <br>
+  
+  - Qian, D., Yan, H., Pan, L., & **Li, O. (通讯)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
   **Psychology & Marketing**, 40(8), 1451-1465.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
@@ -74,12 +75,6 @@ layout: homepage
 - **Li, O.**, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
   <br>
   **IEEE VR**, CCF-A类. <strong><i style="color:#e74d3c">IEEE VR 最佳论文提名</i></strong>
-  
- - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**,. (2022). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
-  <br>
-  **European Journal of Innovation Management**, accepted.
-  <br>
-  [[WEB](https://www.emerald.com/insight/content/doi/10.1108/EJIM-06-2022-0295/full/html?skipTracking=true)] 
   
 - **Li, O.**, & Qian, D. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
@@ -99,13 +94,13 @@ layout: homepage
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
-- Qian, D., & **Li, O. (corresponding)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
+- Qian, D., & **Li, O. (通讯)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
   <br>
   **Applied Psychology: Health and Well-being**, 12(4), 983-999.
   <br>
   [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric score 93, high attention, in the top 5%</i></strong>
   
-- Yang, Y. K., **Li, O. (co-first)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
+- Yang, Y. K., **Li, O. (共同一作)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
