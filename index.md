@@ -38,9 +38,17 @@ layout: homepage
   <br>
   **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会 优秀论文</i></strong>
 
-- **Li, O.** & Shi, Y. (2025) . Red, rather than blue can promote fairness in decision-making.
+- Han, L., Thongpapanl, N., & **Li, O. (corresponding)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
+  <br>
+  **Digital Health**, 11.
+
+  - **Li, O.** & Shi, Y. (2025) . Red, rather than blue can promote fairness in decision-making.
   <br>
   **Humanities and Social Sciences Communications**, 12, 94.
+
+  - Shi, Y, Sun, B., Li, O., & Li, C. (2025) . Driving online course sales by leveraging teacher information.
+  <br>
+  **Asia Pacific Journal of Marketing and Logistics**, 37(4), 931-947.
 
 - Xu, M., Liu, X., & **Li, O. (corresponding)**. (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
