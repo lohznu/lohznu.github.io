@@ -34,7 +34,7 @@ layout: homepage
   <br>
   **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会 优秀论文</i></strong>
 
-- Han, L., Thongpapanl, N., & **Li, O. (**通讯**)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
+- Han, L., Thongpapanl, N., & **Li, O. (_通讯_)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
   **Digital Health**, 11.
 
