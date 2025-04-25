@@ -34,7 +34,7 @@ layout: homepage
   <br>
   **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会 优秀论文</i></strong>
 
-- Han, L., Thongpapanl, N., & **Li, O. (通讯)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
+- Han, L., Thongpapanl, N., & **Li, O. (**通讯**)**. (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
   **Digital Health**, 11.
 
@@ -46,7 +46,7 @@ layout: homepage
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, 37(4), 931-947.
 
-- Xu, M., Liu, X., & **Li, O. (通讯)**. (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
+- Xu, M., Liu, X., & **Li, O. (**通讯**)**. (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
   **Energy**, 132953.
 
@@ -63,7 +63,7 @@ layout: homepage
   **European Journal of Innovation Management**, 27(3), 1024-1041.
   <br>
   
-  - Qian, D., Yan, H., Pan, L., & **Li, O. (通讯)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
+  - Qian, D., Yan, H., Pan, L., & **Li, O. (**通讯**)**. (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
   **Psychology & Marketing**, 40(8), 1451-1465.
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
@@ -88,19 +88,19 @@ layout: homepage
   <br>
   [[WEB](https://www.tandfonline.com/doi/abs/10.1080/13669877.2021.1900338)]
   
-- 于艺凝, **李欧（共同一作）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
+- 于艺凝, **李欧（**共同一作**）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
   <br>
   **应用心理学**, 27(1), 84-89. **CSSCI来源期刊.**
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
-- Qian, D., & **Li, O. (通讯)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
+- Qian, D., & **Li, O. (**通讯**)**. (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
   <br>
   **Applied Psychology: Health and Well-being**, 12(4), 983-999.
   <br>
   [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric score 93, high attention, in the top 5%</i></strong>
   
-- Yang, Y. K., **Li, O. (共同一作)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
+- Yang, Y. K., **Li, O. (**共同一作**)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
