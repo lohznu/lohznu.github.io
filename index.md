@@ -38,11 +38,11 @@ layout: homepage
   <br>
   **Digital Health**, 11.
 
-  - **Li, O.** & Shi, Y. (2025) . Red, rather than blue can promote fairness in decision-making.
+- **Li, O.** & Shi, Y. (2025) . Red, rather than blue can promote fairness in decision-making.
   <br>
   **Humanities and Social Sciences Communications**, 12, 94.
 
-  - Shi, Y, Sun, B., **Li, O.**, & Li, C. (2025) . Driving online course sales by leveraging teacher information.
+- Shi, Y, Sun, B., **Li, O.**, & Li, C. (2025) . Driving online course sales by leveraging teacher information.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, 37(4), 931-947.
 
