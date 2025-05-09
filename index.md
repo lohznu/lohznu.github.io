@@ -30,9 +30,13 @@ layout: homepage
   <br>
   **Working paper**
 
-- How consumers respond to virtual advertising?
+- Older consumers, variety-seeking, and complexity preference
   <br>
-  **Working paper** <strong><i style="color:#e74d3c">中国经济心理学年会 优秀论文</i></strong>
+  **Working paper**
+
+- **Li, O.**, Shi, Y., & Qian, D. (2025) . Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
+  <br>
+  **International Journal of Hospitality Management**, 130, 104247.
 
 - Han, L., Thongpapanl, N., & **Li, O. (Corresponding)** (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
@@ -112,7 +116,7 @@ layout: homepage
   <br>
   [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21287)]
 
-- Wang, L.* Yu, Y. N. & **Li, O.** (2020). The cross-modal interaction between sound frequency and color saturation on consumer’s product size perception, preference and purchase. 
+- Wang, L.* Qian, D., & **Li, O.** (2020). The cross-modal interaction between sound frequency and color saturation on consumer’s product size perception, preference and purchase. 
   <br>
   **Psychology & Marketing**, 37(7), 876-899.
   <br>
