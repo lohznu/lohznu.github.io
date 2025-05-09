@@ -56,7 +56,7 @@ layout: homepage
 
 - **Li, O.**, Su, W., & Shi, Y. (2024) . Using Virtual Reality to Promote Pro-environmental Consumption.
   <br>
-  **IEEE VR**, CCF-A类. <strong><i style="color:#e74d3c">MSI 2024 优秀论文</i></strong>
+  **IEEE VR**, CCF-A类.
   
 - **Li, O.**, Pan, Z., Qiu, H., & Qian, D. (2024) . Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
   <br>
