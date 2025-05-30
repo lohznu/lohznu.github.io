@@ -38,6 +38,10 @@ layout: homepage
   <br>
   **Working paper**
 
+- Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O. (Corresponding)**. (2025) . Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
+  <br>
+  **Journal of Retailing and Consumer Services**, 86, 104339.
+
 - **Li, O.**, Shi, Y., & Qian, D. (2025) . Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
   <br>
   **International Journal of Hospitality Management**, 130, 104247.
