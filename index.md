@@ -22,19 +22,15 @@ layout: homepage
   <br>
   **Working paper**
 
-- External risk event and new product acceptance
+- Time perception in immersive VR environment
   <br>
   **Working paper**
 
-- Emojis usage in advertising design
+- Emojis usage in advertising & cause-related marketing
   <br>
   **Working paper**
 
 - Older consumers, variety-seeking, and complexity preference
-  <br>
-  **Working paper**
-
-- AI emotional expressions and learning satisfaction
   <br>
   **Working paper**
 
