@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师，心理学科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会、杭州青年科技工作者协会等会员，<i>Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A)</i>等期刊审稿人。</font><br/> 
+<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>讲师，心理学科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，师从<a href="https://person.zju.edu.cn/wanglei">汪蕾</a>教授，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会、杭州青年科技工作者协会等会员，<i>Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A)，心理科学，应用心理学</i>等期刊审稿人。</font><br/> 
 <font style="line-height:2;">对“消费+心理”与“决策+心理”的研究内容感兴趣，典型的研究问题如“虚拟现实如何塑造亲社会/亲环境行为？”“新技术如AI如何改变消费？”“新冠疫情塑造了什么公众消费新趋势？”“感官营销与绿色消费”等等。</font><br/>  
 
 ## <font face="等线">研究兴趣</font>
@@ -38,6 +38,14 @@ layout: homepage
   <br>
   **Working paper**
 
+- **Li, O.** & Qian, D. (2026) . The effects of external risk events on consumer acceptance of new products.
+  <br>
+  **Asia Pacific Journal of Marketing and Logistics**, accept.
+
+- 余鑫韬, 刘晓晨, **李欧（Corresponding）**. (2025). 双元领导研究进展与未来展望. 
+  <br>
+  **领导科学**, 6, 61-69. **北核.**
+  
 - Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O. (Corresponding)**. (2025) . Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
   <br>
   **Journal of Retailing and Consumer Services**, 86, 104339.
