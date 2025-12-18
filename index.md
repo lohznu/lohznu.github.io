@@ -34,7 +34,7 @@ layout: homepage
   <br>
   **Working paper**
 
-- **Li, O.** & Qian, D. (2026) . The effects of external risk events on consumer acceptance of new products.
+- **Li, O.** & Qian, D. (2025) . The effects of external risk events on consumer acceptance of new products.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, accept.
 
