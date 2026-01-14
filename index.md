@@ -34,11 +34,11 @@ layout: homepage
   <br>
   **Working paper**
 
-- Li, B., Rui, J., & **Li, O. (Corresponding)**. (2026) . Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
+- Li, B., Rui, J., & **Li, O. (Corresponding)**. (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
   <br>
   **Marketing Letters**, accept.
 
-- **Li, O.** & Qian, D. (2025) . The effects of external risk events on consumer acceptance of new products.
+- **Li, O.** & Qian, D. (2025). The effects of external risk events on consumer acceptance of new products.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, accept.
 
@@ -46,35 +46,35 @@ layout: homepage
   <br>
   **领导科学**, 6, 61-69. **北核.**
   
-- Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O. (Corresponding)**. (2025) . Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
+- Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O. (Corresponding)**. (2025). Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
   <br>
   **Journal of Retailing and Consumer Services**, 86, 104339.
 
-- **Li, O.**, Shi, Y., & Qian, D. (2025) . Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
+- **Li, O.**, Shi, Y., & Qian, D. (2025). Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
   <br>
   **International Journal of Hospitality Management**, 130, 104247.
 
-- Han, L., Thongpapanl, N., & **Li, O. (Corresponding)** (2025) . The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
+- Han, L., Thongpapanl, N., & **Li, O. (Corresponding)** (2025). The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
   **Digital Health**, 11.
 
-- **Li, O.** & Shi, Y. (2025) . Red, rather than blue can promote fairness in decision-making.
+- **Li, O.** & Shi, Y. (2025). Red, rather than blue can promote fairness in decision-making.
   <br>
   **Humanities and Social Sciences Communications**, 12, 94.
 
-- Shi, Y, Sun, B., **Li, O.**, & Li, C. (2025) . Driving online course sales by leveraging teacher information.
+- Shi, Y, Sun, B., **Li, O.**, & Li, C. (2025). Driving online course sales by leveraging teacher information.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, 37(4), 931-947.
 
-- Xu, M., Liu, X., & **Li, O. (Corresponding)** (2024) . Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
+- Xu, M., Liu, X., & **Li, O. (Corresponding)** (2024). Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
   **Energy**, 132953.
 
-- **Li, O.**, Su, W., & Shi, Y. (2024) . Using Virtual Reality to Promote Pro-environmental Consumption.
+- **Li, O.**, Su, W., & Shi, Y. (2024). Using Virtual Reality to Promote Pro-environmental Consumption.
   <br>
   **IEEE VR**, CCF-A类.
   
-- **Li, O.**, Pan, Z., Qiu, H., & Qian, D. (2024) . Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
+- **Li, O.**, Pan, Z., Qiu, H., & Qian, D. (2024). Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
   <br>
   **Journal of Advertising Research**, 64(3), 1-16.
 
