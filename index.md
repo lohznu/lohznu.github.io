@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>副教授，心理学科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会、杭州青年科技工作者协会等会员，<i>Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A), 心理科学，应用心理学</i>等期刊审稿人。</font><br/> 
-<font style="line-height:2;">对“消费+心理”与“决策+心理”的研究内容感兴趣，典型的研究问题如“虚拟现实如何塑造亲社会/亲环境行为？”“新技术如AI如何改变消费？”“新冠疫情塑造了什么公众消费新趋势？”“感官营销与绿色消费”等等。</font><br/>  
+<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>副教授、硕士生导师，科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。长期撰写消费心理、数字营销科普文，果壳网阅读量700万+</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会等会员，<i>Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A), 心理科学，应用心理学</i>等期刊审稿人。</font><br/> 
+<font style="line-height:2;">对消费心理与行为、新技术使用与顾客行为等研究内容感兴趣，典型问题如“虚拟现实如何塑造亲社会/亲环境行为？”“人工智能如何改变消费者？”“视听触味嗅等感官如何塑造品牌印记”等等。</font><br/>  
 
 ## <font face="等线">研究兴趣</font>
   
-- **Consumer Psychology and Behaviors:** VR and consumer behaviors, sensory marketing, consumption under Covid-19
-- **Decision-making and Economic Psychology:** social preferences, inequity averson, decision bias
+- **Consumer Psychology and Behaviors:** VR and consumer behaviors, AI and consumer behaviors, Sensory marketing
+- **Decision-making and Economic Psychology:** Social preferences, Prosocial behaviors, Decision bias
 
 ## <font face="等线">研究成果</font>
 
@@ -215,7 +215,7 @@ layout: homepage
 - **[Nov. 2020]** 第五届中国“互联网+”大学生创新创业大赛. 全国金奖、省金奖.
 
 ## <font face="等线">科普文节选</font>
-- 从事管理学、心理学科普写作，在《中国社会科学报》《大众心理学》和网络媒体发表科普文章近100篇，累计超20万字，30余篇科普文章阅读量达10万+，科普文被澎湃、新浪、网易、腾讯等在线媒体广泛转载；**即将出版一本有关“买买买背后的消费心理学”作品，我将在书中讨论一些有趣的互联网新消费现象**。
+- 长期从事消费心理、数字营销科普写作，在《中国社会科学报》《大众心理学》和网络上发表科普文80余篇，累计超20万字，果壳网阅读量700万+，科普文被澎湃、新浪、网易、腾讯等媒体广泛转载；**即将出版《买买买心理学》，我将在书中讨论一些有趣的互联网新消费现象**。
   
 - 什么！可乐包装上的字体都在算计我的钱包？ **阅读量10万+**
   [[WEB](https://mp.weixin.qq.com/s/UbeE_351VImzL8NIGyyBXA)]
