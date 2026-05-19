@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-
+ <meta name="baidu-site-verification" content="codeva-XR7JYqcFJ9" />
 ## About Me
 
 <font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>副教授、硕士生导师，科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。长期撰写消费心理、数字营销科普文，果壳网阅读量700万+</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会等会员，<i>Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A), 心理科学，应用心理学</i>等期刊审稿人。</font><br/> 
