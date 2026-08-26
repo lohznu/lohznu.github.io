@@ -38,6 +38,10 @@ layout: homepage
   <br>
   **Marketing Letters**, accept.
 
+- Li, B., Rui, J., & **Li, O. (Corresponding)**. (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
+  <br>
+  **Marketing Letters**, 37, 15.
+
 - **Li, O.** & Qian, D. (2026). The effects of external risk events on consumer acceptance of new products.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, accept.
