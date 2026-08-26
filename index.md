@@ -26,17 +26,29 @@ layout: homepage
   <br>
   **Working paper**
 
-- Emojis usage in advertising & cause-related marketing
+- Location effect of emojis in advertising
   <br>
   **Working paper**
 
-- Older consumers, variety-seeking, and complexity preference
+- Older consumers and variety-seeking
   <br>
   **Working paper**
 
-- Li, B., Rui, J., & **Li, O. (Corresponding)**. (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
+- Xie, Z., **Li, O.**, Yu, Y, & Zhang, W. . (2027). The social cost of free: service robots, anticipatory indebtedness, and free-trial acceptance.
   <br>
-  **Marketing Letters**, accept.
+  **Journal of Business Research**, 218, 116489.
+
+- **李欧**, 忻皓. (2026). 善意的符号：表情符号对善因营销说服效果的影响. 
+  <br>
+  **管理科学**, 接受. **CSSCI.**
+
+- Yu, X., Gu, Q., Liu, X., Guo, Y., & **Li, O. (Corresponding)**. (2026). Feeling Younger, Choosing Complexity: How Subjective Age Influences Older Consumers' Preference for Visual Complexity.
+  <br>
+  **Journal of Consumer Behaviour**, accept.
+
+- Shi, Y., Yaang, X., & **Li, O. (Corresponding)**. (2026). How Virtual Product Prototypes Spark Customer Creativity.
+  <br>
+  **International Journal of Human–Computer Interaction**, accept.
 
 - Li, B., Rui, J., & **Li, O. (Corresponding)**. (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
   <br>
