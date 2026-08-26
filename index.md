@@ -46,7 +46,7 @@ layout: homepage
   <br>
   **Journal of Consumer Behaviour**, accept.
 
-- Shi, Y., Yaang, X., & **Li, O. (Corresponding)**. (2026). How Virtual Product Prototypes Spark Customer Creativity.
+- Shi, Y., Yang, X., & **Li, O. (Corresponding)**. (2026). How Virtual Product Prototypes Spark Customer Creativity.
   <br>
   **International Journal of Human–Computer Interaction**, accept.
 
