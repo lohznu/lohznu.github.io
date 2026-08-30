@@ -4,7 +4,7 @@ position: <font face="等线">杭州师范大学阿里巴巴商学院</font>
 position2: 杭州师范大学阿里巴巴商学院
 affiliation: <font face="等线">浙江大学神经管理学实验室</font>
 email: lo@hznu.edu.cn
-keywords: minimal academic
+keywords: 李欧, 杭州师范大学, 阿里巴巴商学院, 消费心理, 数字营销, 虚拟现实, 人工智能, 消费者行为
 google_scholar: https://scholar.google.com/
 github_link: https://www.researchgate.net/profile/Ou-Li-8
 linkedin: https://weibo.com/
@@ -12,6 +12,9 @@ avatar: ./assets/img/b.jpg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+description: 李欧，杭州师范大学阿里巴巴商学院副教授、硕士生导师，研究消费心理、数字营销、虚拟现实与人工智能消费者行为。
+url: https://lohznu.cn
+baseurl: ""
+canonical: https://lohznu.cn/
+lang: zh-CN
 remote_theme: yaoyao-liu/minimal-light
