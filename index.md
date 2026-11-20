@@ -42,87 +42,75 @@ layout: homepage
   <br>
   **管理科学**, 接受. **CSSCI.**
 
-- Yu, X., Gu, Q., Liu, X., Guo, Y., & **Li, O*. (Corresponding)**. (2026). Feeling Younger, Choosing Complexity: How Subjective Age Influences Older Consumers' Preference for Visual Complexity.
+- Yu, X., Gu, Q., Liu, X., Guo, Y., & **Li, O*. (Corresponding)** (2026). Feeling Younger, Choosing Complexity: How Subjective Age Influences Older Consumers' Preference for Visual Complexity.
   <br>
-  **Journal of Consumer Behaviour**, accept.
+  **Journal of Consumer Behaviour**, 25(6), 3196-3209.
 
-- Shi, Y., Yang, X., & **Li, O. (Corresponding)**. (2026). How Virtual Product Prototypes Spark Customer Creativity.
+- Shi, Y., Yang, X., & **Li, O*. (Corresponding)** (2026). How Virtual Product Prototypes Spark Customer Creativity.
   <br>
   **International Journal of Human–Computer Interaction**, accept.
 
-- Li, B., Rui, J., & **Li, O. (Corresponding)**. (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
+- Li, B., Rui, J., & **Li, O*. (Corresponding)** (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
   <br>
   **Marketing Letters**, 37, 15.
 
-- **Li, O.** & Qian, D. (2026). The effects of external risk events on consumer acceptance of new products.
+- **Li, O.** & Qian, D*. (2026). The effects of external risk events on consumer acceptance of new products.
   <br>
   **Asia Pacific Journal of Marketing and Logistics**, accept.
 
-- 余鑫韬, 刘晓晨, **李欧(Corresponding)**. (2025). 双元领导研究进展与未来展望. 
+- 余鑫韬, 刘晓晨, **李欧*(Corresponding)**. (2025). 双元领导研究进展与未来展望. 
   <br>
   **领导科学**, 6, 61-69. **北核.**
   
-- Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O. (Corresponding)**. (2025). Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
+- Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O*. (Corresponding)** (2025). Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
   <br>
   **Journal of Retailing and Consumer Services**, 86, 104339.
 
-- **Li, O.**, Shi, Y., & Qian, D. (2025). Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
+- **Li, O.**, Shi, Y., & Qian, D*. (2025). Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
   <br>
   **International Journal of Hospitality Management**, 130, 104247.
 
-- Han, L., Thongpapanl, N., & **Li, O. (Corresponding)** (2025). The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
+- Han, L., Thongpapanl, N., & **Li, O*. (Corresponding)** (2025). The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
   **Digital Health**, 11.
 
-- **Li, O.** & Shi, Y. (2025). Red, rather than blue can promote fairness in decision-making.
+- **Li, O.*** & Shi, Y. (2025). Red, rather than blue can promote fairness in decision-making.
   <br>
   **Humanities and Social Sciences Communications**, 12, 94.
 
-- Shi, Y, Sun, B., **Li, O.**, & Li, C. (2025). Driving online course sales by leveraging teacher information.
-  <br>
-  **Asia Pacific Journal of Marketing and Logistics**, 37(4), 931-947.
-
-- Xu, M., Liu, X., & **Li, O. (Corresponding)** (2024). Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
+- Xu, M., Liu, X., & **Li, O*. (Corresponding)** (2024). Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
   **Energy**, 132953.
 
-- **Li, O.**, Su, W., & Shi, Y. (2024). Using Virtual Reality to Promote Pro-environmental Consumption.
+- **Li, O.***, Su, W., & Shi, Y. (2024). Using Virtual Reality to Promote Pro-environmental Consumption.
   <br>
   **IEEE VR**, CCF-A类.
   
-- **Li, O.**, Pan, Z., Qiu, H., & Qian, D. (2024). Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
+- **Li, O.**, Pan, Z., Qiu, H., & Qian, D*. (2024). Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
   <br>
   **Journal of Advertising Research**, 64(3), 1-16.
-
- - Shi, Y., Zou, B., Wang, C. L., & **Li, O.**,. (2024). Spurring innovation through intentional organizational crisis: the moderating effects of past performance and resources allocation capability.
-  <br>
-  **European Journal of Innovation Management**, 27(3), 1024-1041.
-  <br>
   
-  - Qian, D., Yan, H., Pan, L., & **Li, O. (Corresponding)** (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
+- Qian, D., Yan, H., Pan, L., & **Li, O*. (Corresponding)** (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
   **Psychology & Marketing**, 40(8), 1451-1465.
-  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21835)] 
 
-- **李欧**, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
+- **李欧***, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
   <br>
   **心理技术与应用**, 11(7), 406-413.
   
-- **Li, O.**, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
+- **Li, O.***, & Qiu, H. (2023) . Virtual reality in supporting charitable giving: The role of vicarious experience, existential guilt, and need for stimulation.
   <br>
   **IEEE VR**, CCF-A类. <strong><i style="color:#e74d3c">IEEE VR 最佳论文提名</i></strong>
   
-- **Li, O.**, & Qian, D. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
+- **Li, O.**, & Qian, D*. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
   **Journal of Consumer Affairs**, 56(1), 257-275. <strong><i style="color:#e74d3c">Wiley高被引论文</i></strong>
   <br>
-  [[WEB](https://onlinelibrary.wiley.com/doi/full/10.1111/joca.12407)] 
 
-- **Li, O.**, & Zhao, C. (2021). How the COVID-19 pandemic influences judgements of risk and benefit: The role of affect heuristics. 
+- **Li, O.***, & Zhao, C. (2021). How the COVID-19 pandemic influences judgements of risk and benefit: The role of affect heuristics. 
   <br>
   **Journal of Risk Research**, 24(3-4), 466-476.
   <br>
-  [[WEB](https://www.tandfonline.com/doi/abs/10.1080/13669877.2021.1900338)]
   
 - 于艺凝, **李欧（Co-first）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
   <br>
@@ -130,35 +118,25 @@ layout: homepage
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
-- Qian, D., & **Li, O. (Corresponding)** (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
+- Qian, D., & **Li, O.* (Corresponding)** (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
   <br>
   **Applied Psychology: Health and Well-being**, 12(4), 983-999.
   <br>
-  [[WEB](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12219)] <strong><i style="color:#e74d3c">Altmetric score 93, high attention, in the top 5%</i></strong>
-  
-- Yang, Y. K., **Li, O. (Co-first)**, Peng, X. X., & Wang, L* (2020). Consumption trends during the COVID-19 crisis: How awe, coping, and social norms drive utilitarian purchases. 
-  <br>
-  **Frontiers in Psychology**, 9, 749.
-  <br>
-  [[WEB](https://www.frontiersin.org/articles/588580)]
   
 - Wang, L.\*, Yu, Y. N., & **Li, O.** (2020). The typeface curvature effect: The role of typeface curvature in increasing preference towards hedonic products. 
   <br>
   **Psychology & Marketing**, 37(8), 1118-1137.
   <br>
-  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21287)]
 
 - Wang, L.* Qian, D., & **Li, O.** (2020). The cross-modal interaction between sound frequency and color saturation on consumer’s product size perception, preference and purchase. 
   <br>
   **Psychology & Marketing**, 37(7), 876-899.
   <br>
-  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21284)]
   
 - Wang, L.* & **Li, O.** (2020). Effect of background colors on hedonic consumption. 
   <br>
   **Psych Journal**, 8(4), 522-52.
   <br>
-  [[WEB](https://onlinelibrary.wiley.com/doi/abs/10.1002/pchj.291)]
  
 - **Li, O.**, Xu, F.\*, & Wang, L.* (2018). Advantageous inequity aversion does not always exist: the role of determining allocations modulates preferences for advantageous inequity. 
   <br>
