@@ -34,13 +34,17 @@ layout: homepage
   <br>
   **Journal of Business Research**, 220, Article 116651.
 
+- **李欧**, 肖乐，董凌峰*. (2027). 从文本到语音：人工智能语音交互影响消费者行为的研究综述. 
+  <br>
+  **外国经济与管理**, 接收. **CSSCI.**
+
 - Xie, Z., **Li, O.**, Yu, Y*, & Zhang, W. . (2027). The social cost of free: service robots, anticipatory indebtedness, and free-trial acceptance.
   <br>
   **Journal of Business Research**, 218, Article 116489.
 
 - **李欧***, 忻皓. (2026). 善意的符号：表情符号对善因营销说服效果的影响. 
   <br>
-  **管理科学**, 接受. **CSSCI.**
+  **管理科学**, 39(04), 105-120. **CSSCI.**
 
 - Yu, X., Gu, Q., Liu, X., Guo, Y., & **Li, O*. (Corresponding)** (2026). Feeling Younger, Choosing Complexity: How Subjective Age Influences Older Consumers' Preference for Visual Complexity.
   <br>
@@ -114,7 +118,7 @@ layout: homepage
   
 - 于艺凝, **李欧（Co-first）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
   <br>
-  **应用心理学**, 27(1), 84-89. **CSSCI来源期刊.**
+  **应用心理学**, 27(1), 84-89. **CSSCI.**
   <br>
   [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
@@ -142,59 +146,58 @@ layout: homepage
   <br>
   **Frontiers in Psychology**, 9, 749.
   <br>
-  [[WEB](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00749/full)] <strong><i style="color:#e74d3c">Altmetric score 14, high attention, in the top 20%</i></strong>
 
 - 徐富明*, **李欧**. (2017). 齐差求辨出决策，避繁就简成判断——评《决策心理：齐当别之道》. 
   <br>
-  **应用心理学**, 23(1), 92-96. **CSSCI来源期刊.**
+  **应用心理学**, 23(1), 92-96. **CSSCI.**
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201701010)] 
 
 - 徐富明*, **李欧**, 李彬, 刘程浩, 张慧. (2016). 概率水平与模糊性对短视损失规避的影响. 
   <br>
-  **心理科学**, 39(6), 1366-1372. **中文一级，CSSCI来源期刊.**
+  **心理科学**, 39(6), 1366-1372. **中文一级，CSSCI.**
   <br>
   [[WEB](http://www.psysci.org/CN/Y2016/V39/I6/1366)] 
 
 - **李欧**, 徐富明*, 邓颖, 刘程浩, 史燕伟. (2016). 最后通牒博弈中个体差异和种族文化差异. 
   <br>
-  **心理科学**, 39(3), 693-699. **中文一级，CSSCI来源期刊.**
+  **心理科学**, 39(3), 693-699. **中文一级，CSSCI.**
   <br>
   [[WEB](http://www.psysci.org/CN/Y2016/V39/I3/693)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 史燕伟. (2016). 行为经济学中的不平等规避. 
   <br>
-  **心理科学进展**, 24(10), 1613-1622. **中文一级，CSSCI来源期刊.**
+  **心理科学进展**, 24(10), 1613-1622. **中文一级，CSSCI.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml)] 
 
 - 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟. (2016). 判断与决策中的投射偏差. 
   <br>
-  **心理科学进展**, 24(3), 422-430. **中文一级，CSSCI来源期刊.**
+  **心理科学进展**, 24(3), 422-430. **中文一级，CSSCI.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2016.00422)] 
 
 - 徐富明*, 蒋多, 张慧, **李欧**, 孔诗晓, 史燕伟. (2016). 心理距离对基线比例忽略的影响. 
   <br>
-  **心理学报**, 48(10), 1292-1301. **中文权威，CSSCI来源期刊.**
+  **心理学报**, 48(10), 1292-1301. **中文权威，CSSCI.**
   <br>
   [[WEB](http://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2016.01292)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 于会会. (2016). 概率组合与警告类型对合取谬误的影响. 
   <br>
-  **心理研究**, 9(1), 60-65. **CSSCI来源期刊扩展版.**
+  **心理研究**, 9(1), 60-65. **CSSCI扩展版.**
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201601010)] 
   
 - 徐富明*, **李欧**, 邓颖, 李彬. (2016). 投资决策中的短视损失规避. 
   <br>
-  **心理研究**, 9(3), 3-9. **CSSCI来源期刊扩展版.**
+  **心理研究**, 9(3), 3-9. **CSSCI扩展版.**
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201603001)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 吴修良. (2015). 情绪的确定性维度对风险偏好的影响. 
   <br>
-  **应用心理学**, 21(4), 325-333. **CSSCI来源期刊**
+  **应用心理学**, 21(4), 325-333. **CSSCI**
   <br>
   [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201504005)] 
   
