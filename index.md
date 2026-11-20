@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>副教授、硕士生导师，科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，获管理学博士学位，具有心理学背景（行为决策与经济心理方向）。长期撰写消费心理、数字营销科普文，果壳网阅读量700万+</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会等会员，<i>Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A), 心理科学，应用心理学</i>等期刊审稿人。</font><br/> 
-<font style="line-height:2;">对消费心理与行为、新技术使用与顾客行为等研究内容感兴趣，典型问题如“虚拟现实如何塑造亲社会/亲环境行为？”“人工智能如何改变消费者？”“视听触味嗅等感官如何塑造品牌印记”等等。</font><br/>  
+<font style="line-height:2;"><b>李欧</b>，男，1993年1月生，杭州师范大学<a href="http://abs.hznu.edu.cn/portal/">阿里巴巴商学院</a>副教授、硕士生导师，科普作者。2021年9月毕业于浙江大学管理学院<a href="http://neuromanagement.zju.edu.cn">神经管理学实验室</a>，获管理学博士学位，具有心理学背景（行为决策与经济心理）。长期撰写消费心理、数字营销科普文，果壳网阅读量700万+</font><br/> <font style="line-height:2;">国际应用心理学会(IAAP)、国际消费者研究会(ACR)、中国心理学会、浙江省科普联合会等会员，<i>Journal of Business Research, Psychology & Marketing, Social Science & Medicine, Journal of Interactive Marketing, Journal of International Marketing, International Journal of Research in Marketing, IEEE VR (CCF-A), 心理科学，应用心理学，外国经济与管理</i>等期刊审稿人。</font><br/> 
+<font style="line-height:2;">对感官营销、数字营销、新技术与消费行为等研究内容感兴趣，典型问题如“虚拟现实如何塑造亲社会/亲环境行为？”“人工智能如何改变消费者？”“视听触味嗅等感官如何塑造品牌印记”等。</font><br/>  
 
 ## <font face="等线">研究兴趣</font>
   
 - **Consumer Psychology and Behaviors:** VR and consumer behaviors, AI and consumer behaviors, Sensory marketing
-- **Decision-making and Economic Psychology:** Social preferences, Prosocial behaviors, Decision bias
+- **Decision-making and Economic Psychology:** Social preferences, Prosocial behaviors, Pro-environmental behaviors, Decision bias
 
 ## <font face="等线">研究成果</font>
 
