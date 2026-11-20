@@ -34,9 +34,7 @@ layout: homepage
   <br>
   **Journal of Business Research**, 220, Article 116651. **ABS-3**
 
-- **李欧**, 肖乐, 董凌峰*. (2027). 从文本到语音：人工智能语音交互影响消费者行为的研究综述. 
-  <br>
-  **外国经济与管理**, 接收. **CSSCI.**
+- **李欧**, 肖乐, 董凌峰*. (2027). 从文本到语音：人工智能语音交互影响消费者行为的研究综述. **外国经济与管理**, 接收. **CSSCI.**
 
 - Xie, Z., **Li, O.**, Yu, Y*, & Zhang, W. . (2027). The social cost of free: service robots, anticipatory indebtedness, and free-trial acceptance.
   <br>
