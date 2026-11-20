@@ -32,15 +32,15 @@ layout: homepage
 
 - **Li, O.**, Yu, Y, & Shi, Y*. (2027). Embracing Nature Virtually: How Virtual Reality Helps to Promote Pro-environmental Consumption.
   <br>
-  **Journal of Business Research**, 220, Article 116651.
+  **Journal of Business Research**, 220, Article 116651. **ABS-3**
 
-- **李欧**, 肖乐，董凌峰*. (2027). 从文本到语音：人工智能语音交互影响消费者行为的研究综述. 
+- **李欧**, 肖乐, 董凌峰*. (2027). 从文本到语音：人工智能语音交互影响消费者行为的研究综述. 
   <br>
   **外国经济与管理**, 接收. **CSSCI.**
 
 - Xie, Z., **Li, O.**, Yu, Y*, & Zhang, W. . (2027). The social cost of free: service robots, anticipatory indebtedness, and free-trial acceptance.
   <br>
-  **Journal of Business Research**, 218, Article 116489.
+  **Journal of Business Research**, 218, Article 116489. **ABS-3**
 
 - **李欧***, 忻皓. (2026). 善意的符号：表情符号对善因营销说服效果的影响. 
   <br>
@@ -48,7 +48,7 @@ layout: homepage
 
 - Yu, X., Gu, Q., Liu, X., Guo, Y., & **Li, O*. (Corresponding)** (2026). Feeling Younger, Choosing Complexity: How Subjective Age Influences Older Consumers' Preference for Visual Complexity.
   <br>
-  **Journal of Consumer Behaviour**, 25(6), 3196-3209.
+  **Journal of Consumer Behaviour**, 25(6), 3196-3209. **ABS-2**
 
 - Shi, Y., Yang, X., & **Li, O*. (Corresponding)** (2026). How Virtual Product Prototypes Spark Customer Creativity.
   <br>
@@ -56,7 +56,7 @@ layout: homepage
 
 - Li, B., Rui, J., & **Li, O*. (Corresponding)** (2026). Frame the purchase: How message framing shapes consumer responses to material vs. experiential purchases.
   <br>
-  **Marketing Letters**, 37, 15.
+  **Marketing Letters**, 37, 15. **ABS-3**
 
 - **Li, O.** & Qian, D*. (2026). The effects of external risk events on consumer acceptance of new products.
   <br>
@@ -68,11 +68,11 @@ layout: homepage
   
 - Dong, L., Wang, J., Tok, S. Y., Tu, Y., & **Li, O*. (Corresponding)** (2025). Strategic configuration of platform functionalities in service-selling Platforms: The role of price position and reputation.
   <br>
-  **Journal of Retailing and Consumer Services**, 86, 104339.
+  **Journal of Retailing and Consumer Services**, 86, 104339. **ABS-2**
 
-- **Li, O.**, Shi, Y., & Qian, D*. (2025). Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
+- **Li, O.**, Shi, Y., & Qian, D.* (2025). Immersive Stays in Virtual Hotels: The Effect of Experiences in Metaverse Hotels on Customer Responses.
   <br>
-  **International Journal of Hospitality Management**, 130, 104247.
+  **International Journal of Hospitality Management**, 130, 104247. **ABS-3**
 
 - Han, L., Thongpapanl, N., & **Li, O*. (Corresponding)** (2025). The mechanism of word-of-mouth learning on chronic disease patients’ physician choice in online health communities.
   <br>
@@ -84,7 +84,7 @@ layout: homepage
 
 - Xu, M., Liu, X., & **Li, O*. (Corresponding)** (2024). Can intelligent manufacturing drive green development in China's pharmaceutical industry? - Evidence from listed enterprises.
   <br>
-  **Energy**, 132953.
+  **Energy**, 132953. **中科院一区TOP**
 
 - **Li, O.***, Su, W., & Shi, Y. (2024). Using Virtual Reality to Promote Pro-environmental Consumption.
   <br>
@@ -92,11 +92,11 @@ layout: homepage
   
 - **Li, O.**, Pan, Z., Qiu, H., & Qian, D*. (2024). Put Yourself in the Donee’s Shoes: How Virtual Reality Can Increase Effectiveness of Prosocial Advertising.
   <br>
-  **Journal of Advertising Research**, 64(3), 1-16.
+  **Journal of Advertising Research**, 64(3), 1-16. **ABS-3**
   
 - Qian, D., Yan, H., Pan, L., & **Li, O*. (Corresponding)** (2023). Bring it on! Package shape signaling dominant male body promotes healthy food consumption for male consumers.
   <br>
-  **Psychology & Marketing**, 40(8), 1451-1465.
+  **Psychology & Marketing**, 40(8), 1451-1465. **ABS-3**
 
 - **李欧***, 裘涵, & 潘志庚. (2023). 元宇宙推动慈善捐赠的进展与心理路径.
   <br>
@@ -108,33 +108,32 @@ layout: homepage
   
 - **Li, O.**, & Qian, D*. (2022). An analysis of the relationship between risk perceptions and willingness-to-pay for commodities during the COVID-19 pandemic.
   <br>
-  **Journal of Consumer Affairs**, 56(1), 257-275. <strong><i style="color:#e74d3c">Wiley高被引论文</i></strong>
+  **Journal of Consumer Affairs**, 56(1), 257-275. **ABS-2**
   <br>
 
 - **Li, O.***, & Zhao, C. (2021). How the COVID-19 pandemic influences judgements of risk and benefit: The role of affect heuristics. 
   <br>
-  **Journal of Risk Research**, 24(3-4), 466-476.
+  **Journal of Risk Research**, 24(3-4), 466-476. **ABS-2**
   <br>
   
 - 于艺凝, **李欧（Co-first）**, & 汪蕾*. (2021). 支付效应的理论机制及影响因素. 
   <br>
   **应用心理学**, 27(1), 84-89. **CSSCI.**
   <br>
-  [[WEB](http://www.appliedpsy.cn/CN/abstract/abstract289.shtml)] 
  
 - Qian, D., & **Li, O.* (Corresponding)** (2020).The Relationship between Risk Event Involvement and Risk Perception during the COVID-19 Outbreak in China. 
   <br>
-  **Applied Psychology: Health and Well-being**, 12(4), 983-999.
+  **Applied Psychology: Health and Well-being**, 12(4), 983-999. **ABS-2**
   <br>
   
 - Wang, L.\*, Yu, Y. N., & **Li, O.** (2020). The typeface curvature effect: The role of typeface curvature in increasing preference towards hedonic products. 
   <br>
-  **Psychology & Marketing**, 37(8), 1118-1137.
+  **Psychology & Marketing**, 37(8), 1118-1137. **ABS-3**
   <br>
 
 - Wang, L.* Qian, D., & **Li, O.** (2020). The cross-modal interaction between sound frequency and color saturation on consumer’s product size perception, preference and purchase. 
   <br>
-  **Psychology & Marketing**, 37(7), 876-899.
+  **Psychology & Marketing**, 37(7), 876-899. **ABS-3**
   <br>
   
 - Wang, L.* & **Li, O.** (2020). Effect of background colors on hedonic consumption. 
@@ -151,55 +150,46 @@ layout: homepage
   <br>
   **应用心理学**, 23(1), 92-96. **CSSCI.**
   <br>
-  [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201701010)] 
 
 - 徐富明*, **李欧**, 李彬, 刘程浩, 张慧. (2016). 概率水平与模糊性对短视损失规避的影响. 
   <br>
   **心理科学**, 39(6), 1366-1372. **中文一级，CSSCI.**
   <br>
-  [[WEB](http://www.psysci.org/CN/Y2016/V39/I6/1366)] 
 
 - **李欧**, 徐富明*, 邓颖, 刘程浩, 史燕伟. (2016). 最后通牒博弈中个体差异和种族文化差异. 
   <br>
   **心理科学**, 39(3), 693-699. **中文一级，CSSCI.**
   <br>
-  [[WEB](http://www.psysci.org/CN/Y2016/V39/I3/693)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 史燕伟. (2016). 行为经济学中的不平等规避. 
   <br>
   **心理科学进展**, 24(10), 1613-1622. **中文一级，CSSCI.**
   <br>
-  [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract3567.shtml)] 
 
 - 徐富明*, **李欧**, 邓颖, 李燕, 史燕伟. (2016). 判断与决策中的投射偏差. 
   <br>
   **心理科学进展**, 24(3), 422-430. **中文一级，CSSCI.**
   <br>
-  [[WEB](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2016.00422)] 
 
 - 徐富明*, 蒋多, 张慧, **李欧**, 孔诗晓, 史燕伟. (2016). 心理距离对基线比例忽略的影响. 
   <br>
   **心理学报**, 48(10), 1292-1301. **中文权威，CSSCI.**
   <br>
-  [[WEB](http://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2016.01292)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 于会会. (2016). 概率组合与警告类型对合取谬误的影响. 
   <br>
   **心理研究**, 9(1), 60-65. **CSSCI扩展版.**
   <br>
-  [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201601010)] 
   
 - 徐富明*, **李欧**, 邓颖, 李彬. (2016). 投资决策中的短视损失规避. 
   <br>
   **心理研究**, 9(3), 3-9. **CSSCI扩展版.**
   <br>
-  [[WEB](https://d.wanfangdata.com.cn/periodical/xlyj201603001)] 
 
 - 徐富明*, **李欧**, 邓颖, 刘程浩, 吴修良. (2015). 情绪的确定性维度对风险偏好的影响. 
   <br>
   **应用心理学**, 21(4), 325-333. **CSSCI**
-  <br>
-  [[WEB](https://d.wanfangdata.com.cn/periodical/yyxlx201504005)] 
+  <br> 
   
 ## <font face="等线">主要荣誉和获奖</font>
 
